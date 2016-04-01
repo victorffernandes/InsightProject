@@ -1,3 +1,5 @@
+package com.example.victorfaria.insight;
+
 import java.util.ArrayList;
 import java.lang.String;
 //DO NOT USE THESE CARACTERS ;|#
@@ -21,9 +23,6 @@ public class Project {
         for(String c : categories){
             categoriesList.add(c);
         }
-
-
-
     }
 
     public void addInsightCard(String title, String data){

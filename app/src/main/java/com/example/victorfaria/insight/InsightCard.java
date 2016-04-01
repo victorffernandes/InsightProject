@@ -1,3 +1,5 @@
+package com.example.victorfaria.insight;
+
 import java.util.ArrayList;
 import java.lang.String;
 
