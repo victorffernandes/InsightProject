@@ -1,4 +1,4 @@
-package com.example.luissilva.insightproject;
+package com.example.victorfaria.insight;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

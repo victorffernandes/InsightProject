@@ -1,4 +1,4 @@
-package com.example.luissilva.insightproject;
+package com.example.victorfaria.insight;
 
 import org.junit.Test;
 
